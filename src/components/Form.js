@@ -1,6 +1,6 @@
 import React from "react"
 
-function Form() {
+function Form(props) {
     return (
         <form>
             <h2 className="label-wrapper">
